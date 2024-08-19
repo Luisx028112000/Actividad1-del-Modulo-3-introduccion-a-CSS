@@ -1,15 +1,12 @@
 body {
-    background-color: rgba(110, 131, 90, 0.249);
+    background-color: rgba(110, 131, 90, 0.25);
 }
 
 h1 {
-    background-position-y: center;
     font-weight: 800;
     background-color: rgb(64, 146, 152);
-    display: block; 
-    margin-left: auto; /* Centra horizontalmente */
-    margin-right: auto; /* Centra horizontalmente */
-    border: 5px solid rgb(0, 0, 0); /* Crea un borde de 5px alrededor de la imagen */
+    margin: 0 auto; /* Centra horizontalmente */
+    border: 5px solid black; /* Crea un borde de 5px alrededor del h1 */
     width: 50%; /* Ajusta el ancho al 50% del contenedor */
 }
 
