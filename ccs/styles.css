@@ -1,28 +1,24 @@
-body{
-
-background-color: rgba(110, 131, 90, 0.249);
+body {
+    background-color: rgba(110, 131, 90, 0.249);
 }
 
-
-
-h1{
-    
-    background-position-y: center;font-weight: 800;
+h1 {
+    background-position-y: center;
+    font-weight: 800;
     background-color: rgb(64, 146, 152);
-        display: block; 
-        margin-left: auto; /* Centra horizontalmente */
-        margin-right: auto; /* Centra horizontalmente */
-        border: 5px solid rgb(0, 0, 0); /* Crea un borde de 5px alrededor de la imagen */
-        width: 50%; /* Ajusta el ancho de la imagen al 50% del contenedor */
-    }
-    
-fieldset{
+    display: block; 
+    margin-left: auto; /* Centra horizontalmente */
+    margin-right: auto; /* Centra horizontalmente */
+    border: 5px solid rgb(0, 0, 0); /* Crea un borde de 5px alrededor de la imagen */
+    width: 50%; /* Ajusta el ancho al 50% del contenedor */
+}
 
+fieldset {
     background-color: beige;
 }
 
-p{
+p {
     font-size: 18px;
-    font-family:Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 0.5px;
 }
